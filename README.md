@@ -66,6 +66,28 @@
 
 
 ---------------------
+#
+<h2 align="center">
+   Install Locally Or On A VPS
+</h2>
 
+We Suggest To use Debian v-11 else ubuntu v-20+
+```console
+$ git clone https://github.com/Romeo-RJ/Romeo-musicBot
+$ cd Romeo-musicBot
+$ bash setup
+$ cp sample.env .env
+```
+
+<h3 align="center">
+    Edit <b>.env</b> with your own values and Run Bot
+</h3>
+
+```console
+$ screen
+$ python3 -m NIXA
+```
+
+---------------------
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ
 <a href="https://t.me/RomeoBot_op"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Romeo_op"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
