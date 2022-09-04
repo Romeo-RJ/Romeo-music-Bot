@@ -16,7 +16,7 @@
             "value": ""
         },
         "BOT_USERNAME": {
-            "description": "fill with telegram id of account",
+            "description": "fill with your bot username get from @BotFather on telegram",
             "required": true,
             "value": ""
         },
