@@ -27,9 +27,34 @@
 
 ❥︎ **ᴊᴏɪɴ & ʟᴇᴀᴠᴇ ꜱᴛʀᴇᴀᴍᴇʀ ᴀᴄᴄᴏᴜɴᴛ ᴜꜱɪɴɢ ᴀ ᴄᴏᴍᴍᴀɴᴅ**
 
+---------------------
+
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Romeo-RJ/Romeo-musicBot)
+
+---------------------
+
+### DEPLOY ON OKTETO 
+
+<h4>Click the button below to deploy on Okteto!</h4>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Romeo-RJ/Romeo-musicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+
+---------------------
+
+### HOSTING ON WORKFLOWS
+
+<h4>Click the button below to import this code. How to host? Simply import this code then fill your vars in config.py then go to Actions and check build logs!</h4>
+<p align="center"><a href="https://github.com/new/import"><img src="https://img.shields.io/badge/Workflow%20Deploy-black?style=for-the-badge&logo=github" width="200""/></a>
+
+---------------------
+
+#### 🚀 Circleci hosting
+
+<h4>Click the button to redirect on circleci Note: First fill your vars in config.py then connect with your GitHub in circleci then deploy!</h4>
+<p align="center"><a href="https://circleci.com/"><img src="https://img.shields.io/badge/CircleCi%20Deploy-red?style=for-the-badge&logo=circleci" width="200""/></a>
+
+---------------------
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ
 <a href="https://t.me/RomeoBot_op"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Romeo_op"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
