@@ -31,6 +31,8 @@
 
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 
 
+𝐅𝐈𝐑𝐒𝐓 𝐂𝐇𝐀𝐍𝐆𝐄 𝐑𝐄𝐆𝐈𝐎𝐍 𝐔𝐒 𝐓𝐎 𝐄𝐔𝐑𝐎𝐏𝐄 𝐋𝐈𝐊𝐄 ☟︎︎︎    
+    
 <p align="center"><a href="https://t.me/Romeobot_op"><img src="https://telegra.ph/file/ca8c8e2fd149c6ab3d59f.jpg" width="300"></a></p>
 
 <h4>Click the button below to deploy on Okteto!</h4>
