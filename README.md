@@ -31,6 +31,7 @@
 
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 
+<h4>Click the button below to deploy on Okteto!</h4>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Romeo-RJ/Romeo-musicBot)
 
 ---------------------
@@ -53,6 +54,15 @@
 
 <h4>Click the button to redirect on circleci Note: First fill your vars in config.py then connect with your GitHub in circleci then deploy!</h4>
 <p align="center"><a href="https://circleci.com/"><img src="https://img.shields.io/badge/CircleCi%20Deploy-red?style=for-the-badge&logo=circleci" width="200""/></a>
+
+---------------------
+
+### ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
+
+ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables Here](###variable), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
+
+<p align="center"><a href="https://railway.app/new/template?template=https://github.com/Romeo-RJ/Romeo-musicBot-Deploy&envs=SESSION_NAME,BOT_TOKEN,GROUP_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
+
 
 ---------------------
 
