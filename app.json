@@ -1,0 +1,78 @@
+{
+    "name": "RoMeO ᴍᴜsɪᴄ ʙᴏᴛ",
+    "logo": "https://telegra.ph/file/046a3e53fc04fa3de84e0.jpg",
+    "description": "ᴍᴜsɪᴄ ᴀʟʟᴏᴡ ʏᴏᴜ ᴛᴏ sᴛʀᴇᴀᴍ ᴍᴜsɪᴄ ᴛʜʀᴏᴜɢʜ ᴛʜᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ғᴇᴀᴛᴜʀᴇs.",
+    "keywords": ["Nixa", "ROMEO-MUSIC-BOT", "music", "voice chat", "telegram", "Private Music"],
+    "repository": "https://github.com/Romeo-RJ/Romeo-musicBot",
+  "stack": "container",
+    "env": {
+        "SESSION_NAME": {
+            "description": "fill with the pyrogram session string from account",
+            "required": true
+        },
+        "ASSISTANT_NAME": {
+            "description": "fill with your telegram id as the owner of the bot",
+            "required": true,
+            "value": ""
+        },
+        "BOT_USERNAME": {
+            "description": "fill with telegram id of account",
+            "required": true,
+            "value": ""
+        },
+        "API_ID": {
+            "description": "your Api ID from my.telegram.org/apps",
+            "required": true,
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "your Api Hash from my.telegram.org/apps",
+            "required": false,
+            "value": ""
+        },
+        "GROUP_SUPPORT": {
+            "description": "Ur Support Group Username",
+            "required": false,
+            "value": "ROMEOBOT_OP"
+        },
+        "UPDATES_CHANNEL": {
+            "description": "Ur Updates Channel",
+            "required": false,
+            "value": "ROMEO_OP"
+        },
+        "SUDO_USERS": {
+            "description": "fill with the user id who can access all function in your bot (separate with space).",
+            "required": true,
+            "value": ""
+        },
+        "DURATION_LIMIT": {
+            "description": "filled, don't change this !",
+            "required": true,
+            "value": "540000"
+        },
+        "BOT_TOKEN": {
+            "description": "fill with your bot token get from @BotFather on telegram",
+            "required": true,
+            "value": ""
+        }
+
+    },
+  "buildpacks": [
+          {
+              "url": "heroku/python"
+          },
+          {
+              "url": "heroku/nodejs"
+          },
+          {
+              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+          }
+      ],
+      "formation": {
+          "worker": {
+              "quantity": 1,
+              "size": "free"
+          }
+      },
+      "stack": "container"
+  }
