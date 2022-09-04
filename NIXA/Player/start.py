@@ -8,9 +8,18 @@ from config import START_PIC, UPDATES_CHANNEL, GROUP_SUPPORT, BOT_USERNAME
 
 
 ALIVE_PIC = START_PIC
-HOME_TEXT = " **Hello {} /n I'm a music bot /n Play audio and video without Lags /n Enjoy your music 24*7**"
-HELP_TEXT = """𝐈'𝐦 𝐀 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭 /n 𝐏𝐥𝐚𝐲 𝐀𝐮𝐝𝐢𝐨 𝐀𝐧𝐝 𝐕𝐢𝐝𝐞𝐨 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐋𝐚𝐠𝐬 /n 𝐄𝐧𝐣𝐨𝐲 𝐘𝐨𝐮𝐫 𝐦𝐮𝐬𝐢𝐜 24*7
-» **sᴇᴛᴜᴘ ɢᴜɪᴅᴇ** :
+HOME_TEXT = """
+**Hello {} 
+I'm a music bot 
+Play audio and video without Lags 
+Enjoy your music 24*7**
+"""
+
+HELP_TEXT = """
+𝐈'𝐦 𝐀 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭
+𝐏𝐥𝐚𝐲 𝐀𝐮𝐝𝐢𝐨 𝐀𝐧𝐝 𝐕𝐢𝐝𝐞𝐨 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐋𝐚𝐠𝐬  
+𝐄𝐧𝐣𝐨𝐲 𝐘𝐨𝐮𝐫 𝐦𝐮𝐬𝐢𝐜 24*7
+❥︎ **sᴇᴛᴜᴘ ɢᴜɪᴅᴇ** :
 
 \u2022 sᴛᴀʀᴛ ᴀ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
 \u2022 ᴀᴅᴅ ʙᴏᴛ IN ᴄʜᴀᴛ ᴡɪᴛʜ ᴀᴅᴍɪɴ ʀɪɢʜᴛs.
@@ -20,7 +29,7 @@ HELP_TEXT = """𝐈'𝐦 𝐀 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭 /n 𝐏𝐥𝐚�
 
 
 USER_TEXT = """
-» **ᴜsᴇʀs ᴄᴏᴍᴍᴀɴᴅs** :
+❥︎ **ᴜsᴇʀs ᴄᴏᴍᴍᴀɴᴅs** :
 
 \u2022 /play <Query> ᴛᴏ ᴘʟᴀʏ ᴀ sᴏɴɢ.
 \u2022 /vplay <Query> ᴛᴏ ᴘʟᴀʏ ᴠɪᴅᴇᴏ.
