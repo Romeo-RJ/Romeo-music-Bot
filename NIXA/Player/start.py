@@ -4,7 +4,7 @@ from pyrogram.types import Message
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
 from pyrogram.errors import MessageNotModified
 from NIXA.main import Test, bot as Client
-from config import START_PIC, UPDATES_CHANNEL, GROUP_SUPPORT, BOT_USERNAME
+from config import START_PIC, UPDATES_CHANNEL, GROUP_SUPPORT, BOT_USERNAME, ASSISTANT_NAME
 
 
 ALIVE_PIC = START_PIC
