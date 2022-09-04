@@ -29,7 +29,9 @@
 
 ---------------------
 
-### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
+### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 
+
+<p align="center"><a href="https://t.me/Romeobot_op"><img src="https://telegra.ph/file/ca8c8e2fd149c6ab3d59f.jpg" width="300"></a></p>
 
 <h4>Click the button below to deploy on Okteto!</h4>
 
