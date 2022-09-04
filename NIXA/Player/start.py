@@ -4,7 +4,7 @@ from pyrogram.types import Message
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
 from pyrogram.errors import MessageNotModified
 from NIXA.main import Test, bot as Client
-from config import START_PIC, UPDATES_CHANNEL, GROUP_SUPPORT, BOT_USERNAME, ASSISTANT_NAME
+from config import START_PIC, UPDATES_CHANNEL, GROUP_SUPPORT, BOT_USERNAME
 
 
 ALIVE_PIC = START_PIC
@@ -70,7 +70,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     if query.data=="help":
         buttons = [
             [
-                InlineKeyboardButton("👮 ᴏᴡɴᴇʀ", url="https://t.me/{ASSISTANT_NAME}"),
+                InlineKeyboardButton("👮 ᴏᴡɴᴇʀ", url="https://te.legra.ph/ㅤ-09-04"),
                 InlineKeyboardButton("🗨️ ᴜꜱᴇʀꜱ", callback_data="users"),
             ],
             
@@ -208,7 +208,7 @@ async def help(client: Client, message: Message):
     self.username = get_me.username
     buttons =  [
             [
-                InlineKeyboardButton("👮 ᴏᴡɴᴇʀ", url="https://t.me/{ASSISTANT_NAME}"),
+                InlineKeyboardButton("👮 ᴏᴡɴᴇʀ", url="https://te.legra.ph/ㅤ-09-04"),
                 InlineKeyboardButton("🗨️ ᴜꜱᴇʀꜱ", callback_data="users"),
             ],
             
