@@ -9,10 +9,10 @@ from config import START_PIC, UPDATES_CHANNEL, GROUP_SUPPORT, BOT_USERNAME
 
 ALIVE_PIC = START_PIC
 HOME_TEXT = """
-**Hello {} 
-I'm a music bot 
-Play audio and video without Lags 
-Enjoy your music 24*7**
+𝐇𝐞𝐥𝐥𝐨 ❥︎ {} 
+𝐈'𝐦 𝐀 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭
+𝐏𝐥𝐚𝐲 𝐀𝐮𝐝𝐢𝐨 𝐀𝐧𝐝 𝐕𝐢𝐝𝐞𝐨 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐋𝐚𝐠𝐬  
+𝐄𝐧𝐣𝐨𝐲 𝐘𝐨𝐮𝐫 𝐦𝐮𝐬𝐢𝐜 24*7
 """
 
 HELP_TEXT = """
