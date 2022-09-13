@@ -12,14 +12,14 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 hl = '/'
-deadlyversion = 'sᴘᴀᴍʙᴏᴛ 2.0'
+deadlyversion = 'MusicBot 1.0'
 
-NIXA_PIC = "https://te.legra.ph/file/084c206996897e2d42443.jpg"
+NIXA_PIC = "https://telegra.ph/file/046a3e53fc04fa3de84e0.jpg"
   
 
-DEADLY = "    ᴍᴜsɪᴄ sᴘᴀᴍ ʙᴏᴛ\n\n"
+DEADLY = "    ᴍᴜsɪᴄ ʙᴏᴛ\n\n"
 DEADLY += f"━━━━━━━━━━━━━━━━━━━\n"
-DEADLY += f" ‣ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.10.1`\n"
+DEADLY += f" ‣ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.10.6`\n"
 DEADLY += f" ‣ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
 DEADLY += f" ‣ **vᴇʀsɪᴏɴ**  : `{deadlyversion}`\n"
 DEADLY += f"━━━━━━━━━━━━━━━━━━━\n\n"   
