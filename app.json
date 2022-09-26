@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/046a3e53fc04fa3de84e0.jpg",
     "description": "ᴍᴜsɪᴄ ᴀʟʟᴏᴡ ʏᴏᴜ ᴛᴏ sᴛʀᴇᴀᴍ ᴍᴜsɪᴄ ᴛʜʀᴏᴜɢʜ ᴛʜᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ғᴇᴀᴛᴜʀᴇs.",
     "keywords": ["Nixa", "ROMEO-MUSIC-BOT", "music", "voice chat", "telegram", "Private Music"],
-    "repository": "https://github.com/Romeo-RJ/Romeo-musicBot",
+    "repository": "https://github.com/Romeo-RJ/Romeo-music-Bot",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
