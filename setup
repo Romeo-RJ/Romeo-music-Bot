@@ -1,5 +1,5 @@
 #!/bin/bash
-### Nixa Music Installer
+### Romeo-music-Bot Installer
 
 pprint (){
 	cred='\033[0;31m'
@@ -52,7 +52,7 @@ packages(){
 			pprint "SUCCESS.\n\n" "cgreen"
 		else
 			pprint "FAIL.\n\n" "cred"
-			pprint "You need to install ffmpeg manually in order to use NIXA-VC-PLAYER, exiting..\n" "cblue"
+			pprint "You need to install ffmpeg manually in order to use Romeo-music-Bot, exiting..\n" "cblue"
 			exit 1
 		fi
 	fi
@@ -84,7 +84,7 @@ installation(){
 }
 
 clear
-pprint "Welcome to Nixa Music Bot Setup Installer\n\n"
+pprint "Welcome to Romeo-music-Bot Setup Installer\n\n"
 pprint "If you see any error during Installation Process, Please refer to these files for logs: "
 pprint "\nFor node js errors , Checkout nodelog.txt"
 pprint "\nFor pypi packages errors , Checkout pypilog.txt"
