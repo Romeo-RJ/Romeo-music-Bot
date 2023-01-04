@@ -1,4 +1,3 @@
-
 import asyncio
 import base64
 import os
@@ -31,67 +30,6 @@ LOVEOP = [
     "KYA MATLAB TUM MERI HO GYI HO🥺",
     "MERE BACCHON KI MAA BANOGI 🥺",
     "TUNE MERI ZINGADI BANA DI🥺",
-    "KYA MATLAB HUM SHADI KAR RAHE HAIN 😍",
-    "BABY TUM NA MILI TOH ME FIRSE TRY KARUNGA 😏",
-    "YUN TOH KISI CHEEJ KE MOHTAAJ NAI HUM BAS EK TERI AADAT SI HO GAYI HAIN 🥺",
-    "KOI NAI THA AUR NA HOGA TERE JITNA TERE KREEB MERE DIL KE😍",
-    "TU HI MERI SHAMO SUBAH",
-    "TU HI MERI FIRST AND LAST CHOICE🥺😍",
-    "TERA HAR ANDAZ PASAND HAI SIWAYE NARAZ ANDAZ KARNE KA🥺😍",
-    "TU JAB NARAZ HOTI HAIN TAB MERE DIL KO KUCH KUCH HOTA HAIN🥺",
-    "KYU MERE DIL MEIN TUMHARE KHAYAL AATE HAIN🥺",
-    "TUNE MERI LIFE AUR DIL KO FIRSE KHUSH KAR DIYA😍",
-    "EK DIN NA DEKHON TUJHE TOH MUJHE HURT HOTA HAIN🥺",
-    "YE SPAM NAI MERE DIL KE BAATE HAIN TUMHARE LIYE🥺",
-    "LIFE KA PATA NAI BUT TUMHARA AUR MERA DIL KA CONNECTION EK HAIN😍",
-    "MERE LIYE SABKUCH TUM HO🥺",
-    "AGAR TUM CHALI GAYI TOH MERA KYA HOGA🥺",
-    "LOVE KARLO BAS EK BAAR FIR KABHI NAI CHHODUNGA🥺",
-    "EK BAAR DIL KA CONNECTION EK KARLU FIR SURNAME EK HI HONE WALA HAIN",
-    "DIMAAG KA PATA NAI LEKIN DIL TUMHARE PAS LE AAYA 🥺",
-    "TU HI MERI JAAN SHAAN DIL KI ARMAAN 🥺❤️",
-    "TERI DIL ME JAGAH BANAUNGA AAJ PLEASE MAAN JAO NA 🥺❤️",
-    "ME TERA RAJA TU MERI RANI DO MILKE EK PREM KAHANI ❤️",
-    "YE LOVE NAI TOH KYA HAIN 🥺❤️",
-    "AAJ TAK ME KISIKE SAMNE NAI JHUKA BUT APNE PYAAR KE SAMNE ME HAAR GAYA🥺",
-    "KYUN TUJHE ME ITNA CHAHANE LAGA ❤️🥺",
-    "PYAAR TOH EK DIL KA PART HAIN AUR TU MERI HAIN",
-    "DIMAAG KA PATA NAI LEKIN DIL TUMHARE PAS LE AAYA 🥺",
-    "TU KYUN MERE SEEDHA DIL ME AATI HAIN ❤️🥺",
-    "DIL AUR DIMAAG EK KAR DUNGA TERKO WIFE BANANE MEIN 🥺❤️",
-    "MERI LIFE MEIN PEHLE BOHOT TENSION THI JABSE TUMKO DEKHA MERA PROBLEM SOLVE HO GAYA 🥺",
-    "MERI MUMMY TUMHARA GHARPE INTZAAR KAR RAHI HAIN PLEASE AAJAO❤️🥺",
-    "HATE ME I DONT CARE",
-    "LEAVE ME I DONT CARE",
-    "EK TU H TU H RHYGII",
-    "TERE BIN MAR JAUNGA",
-    "TU MERI H SMJI?",
-    "KOI TERE MERE BEECH AYA MARDUNGA OSE",
-    "TERE LIYE MAR B SKTA HU MAR B SKTA HU",
-    "TERE SE JITNA MRJI GUSSA HO JAUN BUT I LOVE U YARR",
-    "TERE LIE IS DUNIA SE LAD JAUNGA",
-    "ANKO SE ANKHE MILAKE KHWAB CHURA LU TERE",
-    "TERA ISHQ PANE LIE KITNE BETAN HU KESE BATAU TUJE",
-    "ME JO JEE RHA HU WAJH TUM HO",
-    "TU H TO M HU TUJSE M HU",
-    "TUJE KITNA CHAHNE LAGE HAM KI SHBO M BYAN NA KAR PAYNGE",
-    "CURRENT STATUS  I WANT TO HUG YOU AND WANAA CARRY LOUD",
-    "I NEED YOU IN MY BAD IN MY GOOD",
-    "HMESHA TERE SATH HU",
-    "TERE SE KADM SE KDM MILAKE CHALNA CHHTA HU",
-    "TUJE APNI SHOTI SI DUNIA KA EK BHT BADA HISA BANANA CHAHTA HU",
-    "KYA JANE TU MERE IRADHE LE JAUNGA TERI SANSE CHURAKE",
-    "DIL KHE RHA KI GUNHGAGAR BAN JA BADA SKOON H IN GUNAHO M",
-    "MERI KHUSHNMA SUBH H TU",
-    "MERI JAAN H TU",
-    "EVEN TUJE IDEA B NHI H KI TERE EK SINGLE MESSAGE KA WAIT KRTE KRTE KITAN ROYA HU",
-    "TUJE PANE LIE BHT TDFA HU",
-    "KABI KABI LGTA H KI TUN MUJSE NHT DUR JA RHI H",
-    "I DONT CARE ABOUT WORD BS I NEED YOU",
-    "TUN BAS MERI H MERI RHNA",
-    "BHT ROTA HU TERE LIE AKELA ME",
-    "H YE NSHA YAN H JEHAR IS PYAR KO KYA NAM DU",
-    "HMARE PYAR KI H YE ADHURI DASTA KI TUN PASS HOKE B BHT DOOR H",
     "इश्क़ है या कुछ और ये पता नहीं, पर जो तुमसे है किसी और से नहीं 😁😁",
     "मै कैसे कहू की उसका साथ कैसा है, वो एक शख्स पुरे कायनात जैसा है ",
     " तेरा होना ही मेरे लिये खास है, तू दूर ही सही मगर मेरे दिल के पास है ",
@@ -250,6 +188,67 @@ LOVEOP = [
     "हमने कहा जिस दिन चुप हो गया तुम तरस जाओ गए😶😶",
     "कुछ ऐसे हस्दे ज़िन्दगी मैं होते है🤔🤔",
     "के इंसान तो बच जाता है मगर ज़िंदा नहीं रहता😂💓",
+    "KYA MATLAB HUM SHADI KAR RAHE HAIN 😍",
+    "BABY TUM NA MILI TOH ME FIRSE TRY KARUNGA 😏",
+    "YUN TOH KISI CHEEJ KE MOHTAAJ NAI HUM BAS EK TERI AADAT SI HO GAYI HAIN 🥺",
+    "KOI NAI THA AUR NA HOGA TERE JITNA TERE KREEB MERE DIL KE😍",
+    "TU HI MERI SHAMO SUBAH",
+    "TU HI MERI FIRST AND LAST CHOICE🥺😍",
+    "TERA HAR ANDAZ PASAND HAI SIWAYE NARAZ ANDAZ KARNE KA🥺😍",
+    "TU JAB NARAZ HOTI HAIN TAB MERE DIL KO KUCH KUCH HOTA HAIN🥺",
+    "KYU MERE DIL MEIN TUMHARE KHAYAL AATE HAIN🥺",
+    "TUNE MERI LIFE AUR DIL KO FIRSE KHUSH KAR DIYA😍",
+    "EK DIN NA DEKHON TUJHE TOH MUJHE HURT HOTA HAIN🥺",
+    "YE SPAM NAI MERE DIL KE BAATE HAIN TUMHARE LIYE🥺",
+    "LIFE KA PATA NAI BUT TUMHARA AUR MERA DIL KA CONNECTION EK HAIN😍",
+    "MERE LIYE SABKUCH TUM HO🥺",
+    "AGAR TUM CHALI GAYI TOH MERA KYA HOGA🥺",
+    "LOVE KARLO BAS EK BAAR FIR KABHI NAI CHHODUNGA🥺",
+    "EK BAAR DIL KA CONNECTION EK KARLU FIR SURNAME EK HI HONE WALA HAIN",
+    "DIMAAG KA PATA NAI LEKIN DIL TUMHARE PAS LE AAYA 🥺",
+    "TU HI MERI JAAN SHAAN DIL KI ARMAAN 🥺❤️",
+    "TERI DIL ME JAGAH BANAUNGA AAJ PLEASE MAAN JAO NA 🥺❤️",
+    "ME TERA RAJA TU MERI RANI DO MILKE EK PREM KAHANI ❤️",
+    "YE LOVE NAI TOH KYA HAIN 🥺❤️",
+    "AAJ TAK ME KISIKE SAMNE NAI JHUKA BUT APNE PYAAR KE SAMNE ME HAAR GAYA🥺",
+    "KYUN TUJHE ME ITNA CHAHANE LAGA ❤️🥺",
+    "PYAAR TOH EK DIL KA PART HAIN AUR TU MERI HAIN",
+    "DIMAAG KA PATA NAI LEKIN DIL TUMHARE PAS LE AAYA 🥺",
+    "TU KYUN MERE SEEDHA DIL ME AATI HAIN ❤️🥺",
+    "DIL AUR DIMAAG EK KAR DUNGA TERKO WIFE BANANE MEIN 🥺❤️",
+    "MERI LIFE MEIN PEHLE BOHOT TENSION THI JABSE TUMKO DEKHA MERA PROBLEM SOLVE HO GAYA 🥺",
+    "MERI MUMMY TUMHARA GHARPE INTZAAR KAR RAHI HAIN PLEASE AAJAO❤️🥺",
+    "HATE ME I DONT CARE",
+    "LEAVE ME I DONT CARE",
+    "EK TU H TU H RHYGII",
+    "TERE BIN MAR JAUNGA",
+    "TU MERI H SMJI?",
+    "KOI TERE MERE BEECH AYA MARDUNGA OSE",
+    "TERE LIYE MAR B SKTA HU MAR B SKTA HU",
+    "TERE SE JITNA MRJI GUSSA HO JAUN BUT I LOVE U YARR",
+    "TERE LIE IS DUNIA SE LAD JAUNGA",
+    "ANKO SE ANKHE MILAKE KHWAB CHURA LU TERE",
+    "TERA ISHQ PANE LIE KITNE BETAN HU KESE BATAU TUJE",
+    "ME JO JEE RHA HU WAJH TUM HO",
+    "TU H TO M HU TUJSE M HU",
+    "TUJE KITNA CHAHNE LAGE HAM KI SHBO M BYAN NA KAR PAYNGE",
+    "CURRENT STATUS  I WANT TO HUG YOU AND WANAA CARRY LOUD",
+    "I NEED YOU IN MY BAD IN MY GOOD",
+    "HMESHA TERE SATH HU",
+    "TERE SE KADM SE KDM MILAKE CHALNA CHHTA HU",
+    "TUJE APNI SHOTI SI DUNIA KA EK BHT BADA HISA BANANA CHAHTA HU",
+    "KYA JANE TU MERE IRADHE LE JAUNGA TERI SANSE CHURAKE",
+    "DIL KHE RHA KI GUNHGAGAR BAN JA BADA SKOON H IN GUNAHO M",
+    "MERI KHUSHNMA SUBH H TU",
+    "MERI JAAN H TU",
+    "EVEN TUJE IDEA B NHI H KI TERE EK SINGLE MESSAGE KA WAIT KRTE KRTE KITAN ROYA HU",
+    "TUJE PANE LIE BHT TDFA HU",
+    "KABI KABI LGTA H KI TUN MUJSE NHT DUR JA RHI H",
+    "I DONT CARE ABOUT WORD BS I NEED YOU",
+    "TUN BAS MERI H MERI RHNA",
+    "BHT ROTA HU TERE LIE AKELA ME",
+    "H YE NSHA YAN H JEHAR IS PYAR KO KYA NAM DU",
+    "HMARE PYAR KI H YE ADHURI DASTA KI TUN PASS HOKE B BHT DOOR H",
     "Doctor Ne Advice Kia Hai Ki Sone Se Pahle Apki Pic Dekh, Kar Sona Jaroori Hai Warna Heart Attack Aa Sakta Hai."
 ]
 
@@ -329,10 +328,10 @@ async def _(event):
         )
 
 
-@BOT.on(events.NewMessage(incoming=True, pattern=r"\%slovereplyraid(?: |$)(.*)" % hl))
+@BOT.on(events.NewMessage(incoming=True, pattern=r"\%slr(?: |$)(.*)" % hl))
 async def _(e):
     global que
-    usage = f"𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = Love ReplyRaid\n\nCommand:\n\n.lovereplyraid <Username of User>\n\n.lovereplyraid <reply to a User>."
+    usage = f"𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗥𝗲𝗽𝗹𝘆𝗥𝗮𝗶𝗱\n\nCommand:\n\n.replyraid <Username of User>\n\n.replyraid <reply to a User>."
     if e.sender_id in SUDO_USERS:
         Deadly = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         SAMx = await e.get_reply_message()
@@ -382,11 +381,11 @@ async def _(e):
             await e.reply(usage)
 
 
-@BOT.on(events.NewMessage(incoming=True, pattern=r"\%sdlovereplyraid(?: |$)(.*)" % hl))
+@BOT.on(events.NewMessage(incoming=True, pattern=r"\%sdlr(?: |$)(.*)" % hl))
 async def _(e):
-    usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = Deactivate Raid\n\nCommand:\n\n.dlovereplyraid <Username of User>\n\n.dlovereplyraid <reply to a User>"
-    global que
-    if e.sender_id in SUDO_USERS:    
+    usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗗𝗲𝗮𝗰𝘁𝗶𝘃𝗮𝘁𝗲 𝗥𝗲𝗽𝗹𝘆𝗥𝗮𝗶𝗱\n\nCommand:\n\n.dreplyraid <Username of User>\n\n.dreplyraid <reply to a User>"
+    global que    
+    if e.sender_id in SUDO_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
         Deadly = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
@@ -416,3 +415,60 @@ async def _(e):
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
     
+@BOT.on(events.NewMessage(incoming=True, pattern=r"\%sdslr(?: |$)(.*)" % hl))
+async def _(event):
+   usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗗𝗘𝗟𝗔𝗬𝗥𝗔𝗜𝗗\n\nCommand:\n\n.delayraid <delay> <count> <Username of User>\n\n.delayraid <delay> <count> <reply to a User>\n\nCount and Sleeptime must be a integer."        
+   if event.sender_id in SUDO_USERS:
+         if event.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
+            return await e.reply(usage, parse_mode=None, link_preview=None )
+         Deadly = "".join(event.text.split(maxsplit=1)[1:]).split(" ", 2)
+         if len(Deadly) == 3:
+             user = str(Deadly[2])
+             a = await event.client.get_entity(user)
+             e = a.id
+             if int(e) in DEADLYSPAM:
+                    text = f"I can't raid on @deadly_spam_bot's Owner"
+                    await event.reply(text, parse_mode=None, link_preview=None )
+             elif int(e) == OWNER_ID:
+                text = f"This guy is a owner Of this Bots."
+                await event.reply(text, parse_mode=None, link_preview=None )
+             elif int(e) in SUDO_USERS:
+                    text = f"This guy is a sudo user."
+                    await event.reply(text, parse_mode=None, link_preview=None )
+             else:
+                 c = a.first_name
+                 username = f"[{c}](tg://user?id={e})"
+                 counter = int(Deadly[1])
+                 sleeptimet = sleeptimem = float(Deadly[0])
+                 for _ in range(counter):
+                      reply = random.choice(LOVEOP)
+                      caption = f"{username} {reply}"
+                      async with event.client.action(event.chat_id, "typing"):
+                          await event.client.send_message(event.chat_id, caption)
+                          await asyncio.sleep(sleeptimem)
+         elif event.reply_to_msg_id:
+               a = await event.get_reply_message()
+               b = await event.client.get_entity(a.sender_id)
+               e = b.id
+               if int(e) in DEADLYSPAM:
+                       text = f"I can't raid on @deadly_spam_bot's Owner"
+                       await event.reply(text, parse_mode=None, link_preview=None )
+               elif int(e) == OWNER_ID:
+                       text = f"This guy is a owner Of this Bots."
+                       await event.reply(text, parse_mode=None, link_preview=None )
+               elif int(e) in SUDO_USERS:
+                       text = f"This guy is a sudo user."
+                       await event.reply(text, parse_mode=None, link_preview=None )
+               else:
+                   c = b.first_name
+                   username = f"[{c}](tg://user?id={e})"
+                   sleeptimet = sleeptimem = float(Deadly[0])
+                   counter = int(Deadly[1])
+                   for _ in range(counter):
+                        reply = random.choice(LOVEOP)
+                        caption = f"{username} {reply}"
+                        async with event.client.action(event.chat_id, "typing"):
+                             await event.client.send_message(event.chat_id, caption)
+                             await asyncio.sleep(sleeptimem)
+         else:
+            await event.reply(usage)
